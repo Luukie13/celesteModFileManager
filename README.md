@@ -6,3 +6,9 @@ Then change config.ini to the path of your mods folder (making sure to end off w
 If you want to update your "ghost files" just hit y and enter after booting the script.
 
 Please do note you can only have ghost files delete the actual files while the script is running. Windows does not natively support linking file deletion as far as im aware.
+
+# TODO
+
+If there's demand for it. 
+Id like to update the script to hook into the everest favorites folder for mods to blacklist from appearing in the ghost folders so you dont accidentally delete them.
+Besides that Id also like to include another ghost folder for mods that have been confirmed to be helpers of some kind (an API exists for this)
